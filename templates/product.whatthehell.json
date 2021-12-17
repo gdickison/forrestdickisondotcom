@@ -1,0 +1,12 @@
+{
+  "sections": {
+    "banana": {
+      "type": "kiss-my-ass-shopify",
+      "settings": {
+      }
+    }
+  },
+  "order": [
+    "banana"
+  ]
+}
